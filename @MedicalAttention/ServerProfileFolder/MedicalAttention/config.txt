@@ -1,0 +1,42 @@
+Tiredness					= 1
+
+	TireTime (minutes)			= 210
+	EyeClosingPoint  (percent)		= 19
+	TextReports				= 1
+	EnergizingDrinkGain (percent)		= 20
+	EnergizingDrinkClass			= SodaCan_Cola
+	EnergizingDrinkClass			= SodaCan_Pipsi
+	EnergizingDrinkClass			= SodaCan_Spite
+
+	SleepingBagClass = MediumTent
+
+	SleepingDOF				= 0
+
+ZombieBleedChance (percent)			= 20
+ZombieSalmonellaChance (percent)		= 50
+WoundInfectionChance (percent)			= 50
+ZombieArmFractureChance (percent)		= 33
+FeverActive					= 1
+BrainDisease					= 1
+SalineBloodRegen				= 0
+TestBloodSelf					= 1
+TestBloodTarget					= 1
+TestBloodToxin					= 1
+
+
+AlcoholicDrinkClass				= SodaCan_Kvass
+AlcoholicDrinkClass				= DisinfectantAlcohol = 3.5
+
+
+DeclareZone = 4 = 1695.40 = 14042.22 = 700
+ToxinAccumulationTimeMin = 5
+ToxinAccumulationTimeMax = 60
+
+ProtectionSuit = NBCBootsGray = 10
+ProtectionSuit = NBCGlovesGray = 10
+ProtectionSuit = NBCHoodGray = 10
+ProtectionSuit = NBCJacketGray = 20
+ProtectionSuit = NBCPantsGray = 20
+
+ProtectionSuit = GP5GasMask = 30 = 1
+ProtectionSuit = GasMask = 30 = 1
